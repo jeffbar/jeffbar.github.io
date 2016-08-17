@@ -65,12 +65,12 @@ google_ad_slot           :
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Jeffrey Barcenas"
   avatar           : "bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
-  uri              :
+  bio              : "Astrophysical Corner."
+  location         : "Mexico City"
+  email            : "jbarcenas@astro.unam.mx"
+  uri              : 
   bitbucket        :
   codepen          :
   dribbble         :
